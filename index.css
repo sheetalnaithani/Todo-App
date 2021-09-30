@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital@0;1&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.row {
+  height: 20px;
+  width: auto;
+}
+.image {
+  background-color: white;
+}
+.heading-tag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dropdown {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#nav-brand {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #000000;
+}
+#navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todolist-heading {
+  font-size: 3rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.todolist-heading > i {
+  margin-right: 1rem;
+}
+
+header {
+  background-color: #152d35;
+}
+
+.container-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 4rem;
+}
+
+.container-body > h2 {
+  margin: 1.5rem 0;
+  font-weight: 600;
+  color: #297f87;
+}
+
+.tasks {
+  padding-top: 2rem;
+  font-weight: 600;
+  color: #297f87;
+}
+
+#item {
+  width: 30vw;
+}
+
+#submit {
+  margin-left: 5rem;
+  border-radius: 50%;
+  font-size: 1.3rem;
+}
+
+#items {
+  width: 50vw;
+  margin-top: 1rem;
+}
+
+.btn-success {
+  margin-right: 1rem;
+}
+
+footer {
+  position: relative;
+  top: 10vh;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #082032;
+}
