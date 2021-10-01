@@ -3,27 +3,43 @@ Todo app
 Todo App is a simple project for keeping track of your Todo list of daily tasks. by using this app you can create a new Todolist and you can add your tasks in specific list  of your choice. Todo app
 
 # FEATURES
-User can :
-Create a new todo list.
-Edit the todo list.
-Update the todo.
-Delete the todo.
+- User can :
+- Create a new todo list.
+- Edit the todo list.
+- Update the todo.
+- Delete the todo.
 
-# TECHNOLOGY USED
-Javascript
-HTML
-Css
-Bootstrap
+## SKILLS:-
+- HTML-5
+- CSS-3
+- JAVASCRIPT(JS)
 
-# AUTHOR
-👤 Sheetal Naithani
+## TECHNOLOGIES:- 💻
+- ##### Virtual Studio Code
+-  ##### Code repository [GitHub](https://github.com/)
+-  ##### For hosting & deployment [netify](https://netify.com/)
 
-Github: https://github.com/sheetalnaithani.
-linkedin: https://www.linkedin.com/in/sheetal-naithani-2a9001210/.
-Feel free to check the issues page.
+## Specific Features
+- Attractive user interface.
+- Responsive Web Design.
 
-Show your support
-Give a ⭐️ if you like this project!
+## Feedbacks (if any):
+
+If you have any feedback, please reach out to me at sheetalnaithani34@gmail.com
+
+  
+## 🔗 Contact Me:
+- [Linkedin](https://www.linkedin.com/in/sheetal-naithani-2a9001210/)
+
+- [Gmail](https://mail.google.com/mail/u/0/#inbox)
+
+  
+## Acknowledgements:
+
+ - [Mentor - Ankeet Kumar Hanny](https://www.linkedin.com/in/ankeethanny007/) 
+ - [W3School](https://www.w3schools.com/)
+ - [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS)
+ 
 
 📝 License
 MIT License
